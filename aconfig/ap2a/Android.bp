@@ -65,6 +65,7 @@ aconfig_value_set {
       "aconfig-values-aosp-ap2a-com.android.server.companion.virtual-all",
       "aconfig-values-aosp-ap2a-android.os-all",
       "aconfig-values-aosp-ap2a-com.android.server.display.feature.flags-all",
+      "aconfig-values-aosp-trunk_staging-android.multiuser-all",
       "aconfig-values-aosp-ap2a-com.android.wm.shell-all"
     ]
 }

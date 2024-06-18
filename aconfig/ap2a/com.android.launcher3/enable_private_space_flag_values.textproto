@@ -1,0 +1,34 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_private_space"
+  state: ENABLED
+  permission: READ_ONLY
+}
+
+flag_value {
+  package: "com.android.launcher3"
+  name: "private_space_animation"
+  state: ENABLED
+  permission: READ_ONLY
+}
+
+flag_value {
+  package: "com.android.launcher3"
+  name: "private_space_sys_apps_separation"
+  state: ENABLED
+  permission: READ_ONLY
+}
+
+flag_value {
+  package: "com.android.launcher3"
+  name: "private_space_app_installer_button"
+  state: ENABLED
+  permission: READ_ONLY
+}
+
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_private_space_install_shortcut"
+  state: ENABLED
+  permission: READ_ONLY
+}
